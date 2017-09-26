@@ -1,2 +1,2 @@
-pirnt("Hello, World :p")
+print("The saiyans arrive")
 
